@@ -265,6 +265,7 @@ GEM
     mini_portile2 (2.0.0)
     minitest (5.8.4)
     multi_json (1.11.3)
+    mysql2 (0.4.6)
     nenv (0.3.0)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
@@ -551,6 +552,7 @@ DEPENDENCIES
   jquery-ui-rails
   kaminari-cells
   multi_json
+  mysql2
   nokogiri
   opal-rails (>= 0.8.1)
   paper_trail (>= 4.0.0.beta2)
@@ -602,4 +604,4 @@ DEPENDENCIES
   zeus
 
 BUNDLED WITH
-   1.12.4
+   1.13.6
